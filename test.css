@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "KG Tangled Up In You";
+  src: url("KGTangledUpInYou.ttf") format("truetype");
+}
+@font-face {
+  font-family: "KG Blank Space Sketch";
+  src: url("KGBlankSpaceSketch.ttf") format("truetype");
+}
+#year {
+  font-size: 91px;
+  font-family: "KG Tangled Up In You";
+  color: rgb(215, 215, 215);
+  line-height: 1.2;
+  -moz-transform: matrix( 0.41494563093094,0,0,0.41494563093094,0,0);
+  -webkit-transform: matrix( 0.41494563093094,0,0,0.41494563093094,0,0);
+  -ms-transform: matrix( 0.41494563093094,0,0,0.41494563093094,0,0);
+  z-index: 68;
+}
+#age {
+  font-size: 68px;
+  font-family: "KG Blank Space Sketch";
+  color: rgb(109, 207, 246);
+  line-height: 1.2;
+  -moz-transform: matrix( 0.9604014939547,0.01122754856318,-0.01122754856318,0.9604014939547,0,0);
+  -webkit-transform: matrix( 0.9604014939547,0.01122754856318,-0.01122754856318,0.9604014939547,0,0);
+  -ms-transform: matrix( 0.9604014939547,0.01122754856318,-0.01122754856318,0.9604014939547,0,0);
+  z-index: 4;
+}
+.Leon_Jacob {
+  font-size: 450px;
+  font-family: "KG Second Chances Sketch";
+  color: rgb(109, 207, 246);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.36675375038004,0,0,0.36675375038004,0,0);
+  -webkit-transform: matrix( 0.36675375038004,0,0,0.36675375038004,0,0);
+  -ms-transform: matrix( 0.36675375038004,0,0,0.36675375038004,0,0);
+  position: absolute;
+  left: -338.41px;
+  top: 1378.5px;
+  z-index: 29;
+}
+._38 {
+  font-size: 450px;
+  font-family: "KG Blank Space Sketch";
+  color: rgb(255, 245, 104);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.55275926070517,0,0,0.55275926070517,0,0);
+  -webkit-transform: matrix( 0.55275926070517,0,0,0.55275926070517,0,0);
+  -ms-transform: matrix( 0.55275926070517,0,0,0.55275926070517,0,0);
+  position: absolute;
+  left: 1866.568px;
+  top: 1199.572px;
+  z-index: 35;
+}
